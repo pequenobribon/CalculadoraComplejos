@@ -1,2 +1,2 @@
 # CalculadoraComplejos
-Calculadora para realizar operaciones con número complejos
+Calculadora para realizar operaciones con números complejos
