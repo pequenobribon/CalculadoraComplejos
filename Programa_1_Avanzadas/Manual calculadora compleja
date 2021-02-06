@@ -1,0 +1,50 @@
+
+Para utilizar la calculadora compleja es necesario ingresar en ella numeros complejos con el siguiente formato
+
+(a+ib)
+(a)
+(i)
+(ib+a)
+
+Seguido de algún operador valido. Los operadores disponibles son:
++,-,/,*,^,r,d,c
+d:distancia
+r:raices
+c:conjugado
+
+Ejemplo de como uitilizar cada uno de los operadores:
+
+(3+5i)+(6i-2) ---------Suma
+(22.5-12i)-(-i-93)-----Resta
+(2+4i)/(2i+4)----------Division
+(i)*(13i+33)-----------Producto
+(3i+6)^(3)-------------Potencia
+(81-22i)r(26)----------Raiz
+(13i-4)d(26+11i)-------Distancia
+(44-67i)c--------------Conjugado
+e(4+8i)----------------Exponencial
+sin(4+8i)--------------Seno
+cos(4+8i)--------------Coseno
+tan(4+8i)--------------Tangente
+cot(4+8i)-------------Cotangente
+sec(4+8i)--------------Secante
+csc(4+8i)--------------Cosecante
+senh(4+8i)-------------SenoHiperbólico
+cosh(4+8i)-------------CosenoHiperbólico
+tanh(4+8i)-------------TangenteHiperbólica
+coth(4+8i)-------------CotangenteHiperbólica
+sech(4+8i)-------------SecanteteHiperbólica
+csch(4+8i)-------------CosecanteteHiperbólica
+ln(4+8i)---------------LogaritmoNatural
+asin(4+8i)-------------ArcoSeno
+acos(4+8i)-------------ArcoCoseno
+atan(4+8i)-------------ArcoTangente
+acot(4+8i)-------------ArcoCotangente
+asec(4+8i)-------------ArcoSecante
+acsc(4+8i)-------------ArcoCosecante
+asinh(4+8i)------------ArcoSenoHiperbólico
+acosh(4+8i)------------ArcoCosenoHiperbólico
+atanh(4+8i)------------ArcoTangenteHiperbólica
+acoth(4-8i)-------------ArcoCotangenteHiperbólica
+asech(4-8i)-------------ArcoSecanteHiperbólica
+acsch(4-8i)-------------ArcoCosecanteHiperbólica
